@@ -1,1 +1,1 @@
-# fresher-trainee--s2--vikram
+# fresher-trainee--ec2--vikram
